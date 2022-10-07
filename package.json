@@ -64,7 +64,7 @@
     "swr": "latest",
     "three": "^0.138.3",
     "three-stdlib": "^2.8.8",
-    "v8n": "^1.3.3",
+    "v8n": "^1.5.1",
     "zustand": "^3.7.1"
   },
   "devDependencies": {
